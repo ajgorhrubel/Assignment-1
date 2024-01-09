@@ -1,0 +1,17 @@
+.one-banner {
+  position: relative;
+  text-align: center;
+}
+.two {
+  font-size: 32px;
+  position: absolute;
+  margin-top: auto;
+}
+.three {
+  text-align: center;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px;
+  position: absolute;
+}
